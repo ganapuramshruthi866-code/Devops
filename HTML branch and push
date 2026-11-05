@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - My HTML Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a> | 
+            <a href="about.html">About Us</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>About Our Team</h1>
+        <p>Welcome to our new HTML page built inside a dedicated Git feature branch!</p>
+        <section>
+            <h2>Our Mission</h2>
+            <p>We are learning how version control, branching, and pushing work together.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My HTML Project</p>
+    </footer>
+</body>
+</html>
